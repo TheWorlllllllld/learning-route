@@ -40,7 +40,7 @@
 
 ​		Linux基础看完之后，就开始真正深入了解C++了，首先就是要了解C++的新特性，C++11里面有很多对开发帮助非常大的优秀特性，现在的很多新项目都是基于C++11开发的，然后就是C++STL的深度剖析了，这里我推荐**侯捷老师**的三门课程：**STL泛型编程、C++11新特性、C++内存管理**，侯捷老师的课在C++中是非常出名的，但讲的也比较深奥，所以STL部分的视频我推荐结合着《STL源码剖析》本书去看，C++11特性视频结合着《C++ Primer 第五版》这本书的C++11特性部分的章节去理解。然后在推荐一本《Effective C++》，这本书也是由侯捷老师翻译的，它并不是一本读一遍就够的书，也不是一本遇到问题就翻看的参考书，而是一本值得反复观看的书籍。
 
-*黑马Linux：https://www.bilibili.com/video/BV1dt411f7TZ*
+*黑马Linux： https://www.bilibili.com/video/BV1KE411q7ee/?share_source=copy_web&vd_source=22890d8b67b5a87f5d99cc7f372915f1*
 
 *侯捷C++：https://pan.baidu.com/s/18t-HIzbkmRZcPZ-cZ-TV2g?pwd=7rgg*
 
@@ -72,7 +72,7 @@
 
 ​		这一阶段学完网络编程后才是真正的可以做正经的实战项目，我推荐写一个实战项目比如web服务器来加深自己对网络编程的理解的认识，推荐跟着牛客网的Linux C/C++服务器的开发的第五章的webserver实战教程去写，里面也详细讲解了HTTP协议的应用。
 
-*黑马Linux：https://www.bilibili.com/video/BV1dt411f7TZ*
+*黑马Linux： https://www.bilibili.com/video/BV1KE411q7ee/?share_source=copy_web&vd_source=22890d8b67b5a87f5d99cc7f372915f1*
 
 *牛客Linux服务器开发：https://www.nowcoder.com/study/live/504*
 
@@ -80,7 +80,7 @@
 
 ​		这个阶段我推荐的课程是**陈硕的网络编程实践**课，这个课程讲述了在linux下进行网络编程的注意事项，强烈推荐，这个视频初期是围绕着C++的一个网络库：Muduo网络库讲的，同时这个视频作者也写了一本书《Linux多线程服务端编程：使用muduo c++网络库》，这本书我觉得可以反复观看，每一次观看都能有新的收获。开始我希望你能用Muduo写一个服务器项目，可以是聊天服务器，也可以是web服务器，了解muduo库的基本使用。最后我要求你能掌握muduo库源码，muduo是一个传统的基于事件回调的网络库，核心代码只有5000行，性能很高，非常适合新手学习，需要至少通读一遍muduo源码并理解。
 
-*陈硕Linux网络编程：https://www.bilibili.com/video/BV1TA411q75p*
+*陈硕Linux网络编程：链接：https://pan.baidu.com/s/102o2lJYSeySGKoG_yLVngg?pwd=8klz *
 
 ​		同时为了面试，你同样需要准备一些项目经历，第四阶段说的webserver可以算一个，但是提到C++面试项目就是webserver，总感觉有点烂大街，所以我再推荐几个练手项目，难度从低到高。C++是一门更加贴近底层的语言，不像java那样能快速搭建一个类似于电商系统这样的项目，大部分情况下C++更适合拿来做组件、库等底层组件。                           
 
